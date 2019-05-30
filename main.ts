@@ -30,32 +30,32 @@ namespace serial { }
 namespace control { }
 
 // CUSTOM
-//% color="#00F" icon="\uf00a"
+//% color="#00F"
 namespace basic { }
 
-//% color="#E0E" icon="\uf192"
+//% color="#E0E"
 namespace input { }
 
-//% color="#F00" icon="\uf025"
+//% color="#F00"
 namespace music { }
 
-//% color="#D0D" icon="\uf205"
+//% color="#D0D"
 namespace led { }
 
-//% color="#F0F" icon="\uf012"
+//% color="#F0F"
 namespace radio { }
 
-//% color="#0C0" icon="\uf11b"
+//% color="#0C0"
 namespace game { }
 
-//% color="#C0C" icon="\uf03e"
+//% color="#C0C"
 namespace images { }
 
-//% color="#D00" icon="\uf140"
+//% color="#D00"
 namespace pins { }
 
-//% color="#009" icon="\uf287"
+//% color="#009"
 namespace serial { }
 
-//% color="#444" icon="\uf233"
+//% color="#444"
 namespace control { }
