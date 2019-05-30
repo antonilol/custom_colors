@@ -1,7 +1,7 @@
 {
     "name": "custom_colors",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.0.1",
+    "description": "Custom colors for MakeCode Micro:bit",
     "dependencies": {
         "core": "*",
         "radio": "*"
@@ -13,6 +13,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": true
 }
