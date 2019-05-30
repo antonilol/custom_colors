@@ -1,5 +1,5 @@
-// You can't edit all namespaces.
-//% color=#1E90FF icon="\uf00a"
+//DEFAULT
+//% color="#1E90FF" icon="\uf00a"
 namespace basic { }
 
 //% color="#D400D4" icon="\uf192"
@@ -8,7 +8,7 @@ namespace input { }
 //% color="#E63022" icon="\uf025"
 namespace music { }
 
-//% color=#7600A8 icon="\uf205"
+//% color="#7600A8" icon="\uf205"
 namespace led { }
 
 //% color="#E3008C" icon="\uf012"
