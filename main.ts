@@ -1,11 +1,11 @@
 // You can't edit all namespaces.
-//% color="#000000" icon="B"
+//% color=#1E90FF icon="\uf00a"
 namespace basic { }
 
 //% color="#D400D4" icon="\uf192"
 namespace input { }
 
-//% color="#000000" icon="M"
+//% color="#E63022" icon="\uf025"
 namespace music { }
 
 //% color=#7600A8 icon="\uf205"
