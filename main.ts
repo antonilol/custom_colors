@@ -30,7 +30,7 @@ namespace serial { }
 namespace control { }
 
 // CUSTOM
-//% color="#00F"
+//% color="#08F"
 namespace basic { }
 
 //% color="#E0E"
@@ -59,3 +59,11 @@ namespace serial { }
 
 //% color="#444"
 namespace control { }
+
+//% color="#1D1" icon="\uf00a"
+namespace color {
+    //% block color="#F00"
+    export function red(): void {
+
+    }
+}
