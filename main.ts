@@ -60,10 +60,15 @@ namespace serial { }
 //% color="#444"
 namespace control { }
 
-//% color="#1D1" icon="\uf00a"
+//% color="#F00" icon="\uf00a"
 namespace color {
-    //% block color="#F00"
     export function red(): void {
+
+    }
+}
+//% color="#00F" icon="\uf00a"
+namespace color {
+    export function blue(): void {
 
     }
 }
