@@ -1,4 +1,4 @@
-//DEFAULT
+// DEFAULT
 //% color="#1E90FF" icon="\uf00a"
 namespace basic { }
 
@@ -27,4 +27,35 @@ namespace pins { }
 namespace serial { }
 
 //% color="#333333" icon="\uf233"
+namespace control { }
+
+// CUSTOM
+//% color="#00F" icon="\uf00a"
+namespace basic { }
+
+//% color="#E0E" icon="\uf192"
+namespace input { }
+
+//% color="#F00" icon="\uf025"
+namespace music { }
+
+//% color="#D0D" icon="\uf205"
+namespace led { }
+
+//% color="#F0F" icon="\uf012"
+namespace radio { }
+
+//% color="#0C0" icon="\uf11b"
+namespace game { }
+
+//% color="#C0C" icon="\uf03e"
+namespace images { }
+
+//% color="#D00" icon="\uf140"
+namespace pins { }
+
+//% color="#009" icon="\uf287"
+namespace serial { }
+
+//% color="#444" icon="\uf233"
 namespace control { }
