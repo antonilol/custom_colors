@@ -39,7 +39,7 @@ namespace input { }
 //% color="#F00"
 namespace music { }
 
-//% color="#A0F"
+//% color="#60F"
 namespace led { }
 
 //% color="#F0F"
