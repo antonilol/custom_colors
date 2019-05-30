@@ -15,3 +15,15 @@ namespace radio { }
 
 //% color="#000000"
 namespace game { }
+
+//% color="#000000"
+namespace images { }
+
+//% color="#000000"
+namespace pins { }
+
+//% color="#000000"
+namespace serial { }
+
+//% color="#000000"
+namespace control { }
