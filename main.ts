@@ -1,7 +1,2 @@
-basic.showLeds(`
-    . . . . .
-    . # . # .
-    . . . . .
-    # . . . #
-    . # # # .
-    `);
+//% color="#000"
+namespace basic{}
