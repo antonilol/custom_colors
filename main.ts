@@ -14,4 +14,4 @@ namespace led { }
 namespace radio { }
 
 //% color="#000000"
-namespace logic { }
+namespace game { }
